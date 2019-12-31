@@ -7,4 +7,9 @@
     <welcome-file-list>
         <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
+
+    <servlet-mapping>
+        <servlet-name>Server Time</servlet-name>
+        <url-pattern>/server-time</url-pattern>
+    </servlet-mapping>
 </web-app>
